@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RemoteServices", "RemoteServices\", "{B2260E9E-A3B8-4557-BFA0-CF1B9D6D17A6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/RemoteServices"
+		Debug.AspNetCompiler.PhysicalPath = "RemoteServices\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\RemoteServices\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/RemoteServices"
+		Release.AspNetCompiler.PhysicalPath = "RemoteServices\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\RemoteServices\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4948"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2260E9E-A3B8-4557-BFA0-CF1B9D6D17A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2260E9E-A3B8-4557-BFA0-CF1B9D6D17A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2260E9E-A3B8-4557-BFA0-CF1B9D6D17A6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2260E9E-A3B8-4557-BFA0-CF1B9D6D17A6}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
